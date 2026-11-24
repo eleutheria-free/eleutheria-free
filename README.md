@@ -1,6 +1,3 @@
-# ⚡
-
-> Comprendre comment les choses fonctionnent, les construire soi-même.
 
 ---
 
@@ -14,12 +11,11 @@ L'objectif ici est simplement de documenter mes avancées, de garder une trace p
 
 ### Technologies & Outils
 
-![Démo](/eren-freedom.gif)
-
-- **Langages & Frameworks** : Python, FastAPI, Bash
-- **Data & Scraping** : Playwright, BeautifulSoup, SQLite
+- **Langages & Frameworks** : Python, C, Web
 - **Systèmes & Infra** : Linux, Docker, Git
 
 ---
 
-*« Moins de bruit, plus de faits. »*
+*« De l'autre côté des murs, il y a la mer. Et par-delà la mer, il y a la liberté. »*
+
+![Démo](/eren-freedom.gif)
