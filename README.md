@@ -14,7 +14,7 @@ L'objectif ici est simplement de documenter mes avancées, de garder une trace p
 
 ### Technologies & Outils
 
-![Démo](eren-freedom.gif)
+![Démo](/eren-freedom.gif)
 
 - **Langages & Frameworks** : Python, FastAPI, Bash
 - **Data & Scraping** : Playwright, BeautifulSoup, SQLite
