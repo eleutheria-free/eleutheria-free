@@ -1,16 +1,25 @@
-## Hi there 👋
+# ⚡
 
-<!--
-**eleutheria-free/eleutheria-free** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Comprendre comment les choses fonctionnent, les construire soi-même.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### À propos
+
+Développeur autonome basé sur la pratique et l'expérimentation. J'utilise principalement Python et les environnements Linux pour concevoir des outils d'automatisation, des scripts de scraping et de petites infrastructures personnalisées. 
+
+L'objectif ici est simplement de documenter mes avancées, de garder une trace propre de mes projets et d'explorer de nouvelles approches logicielles.
+
+---
+
+### Technologies & Outils
+
+![Démo](eren-freedom.gif)
+
+- **Langages & Frameworks** : Python, FastAPI, Bash
+- **Data & Scraping** : Playwright, BeautifulSoup, SQLite
+- **Systèmes & Infra** : Linux, Docker, Git
+
+---
+
+*« Moins de bruit, plus de faits. »*
